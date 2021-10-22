@@ -2,13 +2,13 @@ body
 {
     background-image: url("taylor-armstrong-cat-yelling-meme.jpg");
     background-repeat: no-repeat;
-
+    background-size: 600px 450px;
 
 }
 button
 {
     position: relative;
-        right: 0%;
-        left: 40%;
-        top: 110px;
+        left: 600px;
+        top: 200px;
+        font-size: 50px;
 }
